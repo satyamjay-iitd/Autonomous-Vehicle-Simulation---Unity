@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 347f1e1f374fb2445993538838586103
+timeCreated: 1518988065
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bicycle_LOD0
+    100002: Bicycle_LOD1
+    100004: Bicycle_LOD2
+    100006: Bicycle_LOD3
+    100008: Bicycle_LOD4
+    100010: //RootNode
+    100012: Bip001
+    100014: Bip001 Footsteps
+    100016: Bip001 Head
+    100018: Bip001 HeadNub
+    100020: Bip001 L Calf
+    100022: Bip001 L Clavicle
+    100024: Bip001 L Finger0
+    100026: Bip001 L Finger01
+    100028: Bip001 L Finger02
+    100030: Bip001 L Finger0Nub
+    100032: Bip001 L Finger1
+    100034: Bip001 L Finger11
+    100036: Bip001 L Finger12
+    100038: Bip001 L Finger1Nub
+    100040: Bip001 L Finger2
+    100042: Bip001 L Finger21
+    100044: Bip001 L Finger22
+    100046: Bip001 L Finger2Nub
+    100048: Bip001 L Finger3
+    100050: Bip001 L Finger31
+    100052: Bip001 L Finger32
+    100054: Bip001 L Finger3Nub
+    100056: Bip001 L Finger4
+    100058: Bip001 L Finger41
+    100060: Bip001 L Finger42
+    100062: Bip001 L Finger4Nub
+    100064: Bip001 L Foot
+    100066: Bip001 L Forearm
+    100068: Bip001 L Hand
+    100070: Bip001 L Thigh
+    100072: Bip001 L Toe0
+    100074: Bip001 L Toe0Nub
+    100076: Bip001 L UpperArm
+    100078: Bip001 Neck
+    100080: Bip001 Pelvis
+    100082: Bip001 R Calf
+    100084: Bip001 R Clavicle
+    100086: Bip001 R Finger0
+    100088: Bip001 R Finger01
+    100090: Bip001 R Finger02
+    100092: Bip001 R Finger0Nub
+    100094: Bip001 R Finger1
+    100096: Bip001 R Finger11
+    100098: Bip001 R Finger12
+    100100: Bip001 R Finger1Nub
+    100102: Bip001 R Finger2
+    100104: Bip001 R Finger21
+    100106: Bip001 R Finger22
+    100108: Bip001 R Finger2Nub
+    100110: Bip001 R Finger3
+    100112: Bip001 R Finger31
+    100114: Bip001 R Finger32
+    100116: Bip001 R Finger3Nub
+    100118: Bip001 R Finger4
+    100120: Bip001 R Finger41
+    100122: Bip001 R Finger42
+    100124: Bip001 R Finger4Nub
+    100126: Bip001 R Foot
+    100128: Bip001 R Forearm
+    100130: Bip001 R Hand
+    100132: Bip001 R Thigh
+    100134: Bip001 R Toe0
+    100136: Bip001 R Toe0Nub
+    100138: Bip001 R UpperArm
+    100140: Bip001 Spine
+    100142: Bip001 Spine1
+    100144: Bip001 Spine2
+    100146: Box_collider
+    100148: Man_33_LOD0
+    100150: Man_33_LOD1
+    100152: Man_33_LOD2
+    100154: Man_33_LOD3
+    100156: Man_33_LOD4
+    100158: Pedal_Left
+    100160: Pedal_Left_LOD0
+    100162: Pedal_Left_LOD1
+    100164: Pedal_right
+    100166: Pedal_right_LOD0
+    100168: Pedal_right_LOD1
+    100170: Pedaly
+    100172: Pedaly_LOD0
+    100174: Pedaly_LOD1
+    100176: Wheel_back
+    100178: Wheel_back_collider
+    100180: Wheel_back_LOD0
+    100182: Wheel_back_LOD1
+    100184: Wheel_back_LOD2
+    100186: Wheel_front
+    100188: Wheel_front_collider
+    100190: Wheel_front_LOD0
+    100192: Wheel_front_LOD1
+    100194: Wheel_front_LOD2
+    400000: Bicycle_LOD0
+    400002: Bicycle_LOD1
+    400004: Bicycle_LOD2
+    400006: Bicycle_LOD3
+    400008: Bicycle_LOD4
+    400010: //RootNode
+    400012: Bip001
+    400014: Bip001 Footsteps
+    400016: Bip001 Head
+    400018: Bip001 HeadNub
+    400020: Bip001 L Calf
+    400022: Bip001 L Clavicle
+    400024: Bip001 L Finger0
+    400026: Bip001 L Finger01
+    400028: Bip001 L Finger02
+    400030: Bip001 L Finger0Nub
+    400032: Bip001 L Finger1
+    400034: Bip001 L Finger11
+    400036: Bip001 L Finger12
+    400038: Bip001 L Finger1Nub
+    400040: Bip001 L Finger2
+    400042: Bip001 L Finger21
+    400044: Bip001 L Finger22
+    400046: Bip001 L Finger2Nub
+    400048: Bip001 L Finger3
+    400050: Bip001 L Finger31
+    400052: Bip001 L Finger32
+    400054: Bip001 L Finger3Nub
+    400056: Bip001 L Finger4
+    400058: Bip001 L Finger41
+    400060: Bip001 L Finger42
+    400062: Bip001 L Finger4Nub
+    400064: Bip001 L Foot
+    400066: Bip001 L Forearm
+    400068: Bip001 L Hand
+    400070: Bip001 L Thigh
+    400072: Bip001 L Toe0
+    400074: Bip001 L Toe0Nub
+    400076: Bip001 L UpperArm
+    400078: Bip001 Neck
+    400080: Bip001 Pelvis
+    400082: Bip001 R Calf
+    400084: Bip001 R Clavicle
+    400086: Bip001 R Finger0
+    400088: Bip001 R Finger01
+    400090: Bip001 R Finger02
+    400092: Bip001 R Finger0Nub
+    400094: Bip001 R Finger1
+    400096: Bip001 R Finger11
+    400098: Bip001 R Finger12
+    400100: Bip001 R Finger1Nub
+    400102: Bip001 R Finger2
+    400104: Bip001 R Finger21
+    400106: Bip001 R Finger22
+    400108: Bip001 R Finger2Nub
+    400110: Bip001 R Finger3
+    400112: Bip001 R Finger31
+    400114: Bip001 R Finger32
+    400116: Bip001 R Finger3Nub
+    400118: Bip001 R Finger4
+    400120: Bip001 R Finger41
+    400122: Bip001 R Finger42
+    400124: Bip001 R Finger4Nub
+    400126: Bip001 R Foot
+    400128: Bip001 R Forearm
+    400130: Bip001 R Hand
+    400132: Bip001 R Thigh
+    400134: Bip001 R Toe0
+    400136: Bip001 R Toe0Nub
+    400138: Bip001 R UpperArm
+    400140: Bip001 Spine
+    400142: Bip001 Spine1
+    400144: Bip001 Spine2
+    400146: Box_collider
+    400148: Man_33_LOD0
+    400150: Man_33_LOD1
+    400152: Man_33_LOD2
+    400154: Man_33_LOD3
+    400156: Man_33_LOD4
+    400158: Pedal_Left
+    400160: Pedal_Left_LOD0
+    400162: Pedal_Left_LOD1
+    400164: Pedal_right
+    400166: Pedal_right_LOD0
+    400168: Pedal_right_LOD1
+    400170: Pedaly
+    400172: Pedaly_LOD0
+    400174: Pedaly_LOD1
+    400176: Wheel_back
+    400178: Wheel_back_collider
+    400180: Wheel_back_LOD0
+    400182: Wheel_back_LOD1
+    400184: Wheel_back_LOD2
+    400186: Wheel_front
+    400188: Wheel_front_collider
+    400190: Wheel_front_LOD0
+    400192: Wheel_front_LOD1
+    400194: Wheel_front_LOD2
+    2100000: Bicycle_Body
+    2100002: Bicycle_alpha
+    2100004: man33
+    2300000: Bicycle_LOD0
+    2300002: Bicycle_LOD1
+    2300004: Bicycle_LOD2
+    2300006: Bicycle_LOD3
+    2300008: Bicycle_LOD4
+    2300010: Pedal_Left_LOD0
+    2300012: Pedal_Left_LOD1
+    2300014: Pedal_right_LOD0
+    2300016: Pedal_right_LOD1
+    2300018: Pedaly_LOD0
+    2300020: Pedaly_LOD1
+    2300022: Wheel_back_LOD0
+    2300024: Wheel_back_LOD1
+    2300026: Wheel_back_LOD2
+    2300028: Wheel_front_LOD0
+    2300030: Wheel_front_LOD1
+    2300032: Wheel_front_LOD2
+    3300000: Bicycle_LOD0
+    3300002: Bicycle_LOD1
+    3300004: Bicycle_LOD2
+    3300006: Bicycle_LOD3
+    3300008: Bicycle_LOD4
+    3300010: Pedal_Left_LOD0
+    3300012: Pedal_Left_LOD1
+    3300014: Pedal_right_LOD0
+    3300016: Pedal_right_LOD1
+    3300018: Pedaly_LOD0
+    3300020: Pedaly_LOD1
+    3300022: Wheel_back_LOD0
+    3300024: Wheel_back_LOD1
+    3300026: Wheel_back_LOD2
+    3300028: Wheel_front_LOD0
+    3300030: Wheel_front_LOD1
+    3300032: Wheel_front_LOD2
+    4300000: Pedaly_LOD0
+    4300002: Pedal_right_LOD0
+    4300004: Pedal_right_LOD1
+    4300006: Pedal_Left_LOD0
+    4300008: Pedal_Left_LOD1
+    4300010: Pedaly_LOD1
+    4300012: Wheel_back_LOD0
+    4300014: Wheel_back_LOD1
+    4300016: Wheel_back_LOD2
+    4300018: Wheel_front_LOD0
+    4300020: Wheel_front_LOD1
+    4300022: Wheel_front_LOD2
+    4300024: Bicycle_LOD1
+    4300026: Bicycle_LOD0
+    4300028: Man_33_LOD0
+    4300030: Man_33_LOD1
+    4300032: Man_33_LOD2
+    4300034: Man_33_LOD3
+    4300036: Man_33_LOD4
+    4300038: Bicycle_LOD2
+    4300040: Bicycle_LOD3
+    4300042: Bicycle_LOD4
+    9500000: //RootNode
+    13700000: Man_33_LOD0
+    13700002: Man_33_LOD1
+    13700004: Man_33_LOD2
+    13700006: Man_33_LOD3
+    13700008: Man_33_LOD4
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bicycle_Body
+    second: {fileID: 2100000, guid: 24ce91020e257f54bbf0a1445327db87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bicycle_alpha
+    second: {fileID: 2100000, guid: aaa437ae0ee1f3b49adde595fcb25e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: man33
+    second: {fileID: 2100000, guid: 1689b9fa63a2faf4f97475b5af4568c5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
